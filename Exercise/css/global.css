@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+    .hero {
+        background: url('crosstrek1.jpg') no-repeat center center;
+        background-size: cover;
+        height: 500px;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .hero h1 {
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .features img {
+        width: 100%;
+        height: auto;
+    }
+    .cta {
+        background-color: #003366;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+    .cta a {
+        color: white;
+        font-size: 20px;
+        text-decoration: none;
+    }
